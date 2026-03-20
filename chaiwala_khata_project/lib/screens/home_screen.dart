@@ -17,7 +17,7 @@ class _HomeScreenState extends State<HomeScreen> {
     list = await db.query('customers');
     setState(() {});
   }
-
+bxcvc
   @override
   void initState() {
     super.initState();

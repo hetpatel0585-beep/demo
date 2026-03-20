@@ -1,0 +1,11 @@
+
+name: chaiwala_khata
+description: Chaiwala Khata Book App
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0
+  path_provider: ^2.1.2

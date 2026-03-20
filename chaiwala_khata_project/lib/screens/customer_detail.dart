@@ -9,7 +9,7 @@ class CustomerDetail extends StatefulWidget {
   @override
   State<CustomerDetail> createState() => _CustomerDetailState();
 }
-dgh
+
 class _CustomerDetailState extends State<CustomerDetail> {
   List<Map<String, dynamic>> list = [];
   double bal = 0;
